@@ -276,3 +276,8 @@ class PicturesViewSet(viewsets.ViewSet):
 
 Agora é possível testar o post e o get em sequencia no postman <br>
 
+Adicionada a classe User, tanto na view como em url.<br>
+
+Versao subiu para o github.
+
+
